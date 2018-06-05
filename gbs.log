@@ -1,0 +1,59 @@
+2018-05-29 18:51:12 INFO  Userlogindex:27 - user has been login into the applciation
+2018-05-29 18:51:15 INFO  Userlogindex:32 - user has been logout into the applciation
+2018-05-29 18:51:15 INFO  Testbase:81 - closing the application
+2018-05-29 18:51:16 INFO  Userlogindex:38 - closing application and quiting the browser
+2018-05-29 19:11:32 INFO  Userlogindex:29 - user has been login into the applciation
+2018-05-29 19:11:36 INFO  Testbase:80 - closing the application
+2018-05-29 19:11:37 INFO  Userlogindex:52 - closing application and quiting the browser
+2018-05-29 19:13:34 INFO  Userlogindex:30 - user has been login into the applciation
+2018-05-29 19:16:21 INFO  Userlogindex:32 - user has been login into the applciation
+2018-05-29 19:16:25 INFO  Testbase:80 - closing the application
+2018-05-29 19:16:28 INFO  Userlogindex:57 - closing application and quiting the browser
+2018-05-29 19:21:14 INFO  Userlogindex:28 - user has been login into the applciation
+2018-05-29 19:21:16 INFO  Userlogindex:33 - user has been logout into the applciation
+2018-05-29 19:21:16 INFO  Userlogindex:26 - Application has beed started and initilaztion
+2018-05-29 19:21:16 INFO  Testbase:23 - browser has been startied in chrome
+2018-05-29 19:21:19 INFO  Testbase:25 - het browser into the url http://localhost:8901/GroupWorkflow/login
+2018-05-29 19:21:19 INFO  Testbase:73 - het browser into the url http://localhost:8901/GroupWorkflow/login
+2018-05-29 19:21:21 INFO  Userlogindex:32 - user has been login into the applciation
+2018-05-29 19:21:25 INFO  Testbase:80 - closing the application
+2018-05-29 19:21:26 INFO  Userlogindex:56 - closing application and quiting the browser
+2018-05-29 19:21:26 INFO  Testbase:80 - closing the application
+2018-05-29 19:21:27 INFO  Userlogindex:39 - closing application and quiting the browser
+2018-05-30 10:22:54 INFO  Userlogindex:32 - user has been login into the applciation
+2018-05-30 10:22:57 INFO  Testbase:80 - closing the application
+2018-05-30 10:22:58 INFO  Userlogindex:58 - closing application and quiting the browser
+2018-05-30 10:25:29 INFO  Userlogindex:32 - user has been login into the applciation
+2018-05-30 10:25:32 INFO  Testbase:80 - closing the application
+2018-05-30 10:25:33 INFO  Userlogindex:60 - closing application and quiting the browser
+2018-05-30 10:26:14 INFO  Userlogindex:32 - user has been login into the applciation
+2018-05-30 10:26:18 INFO  Testbase:80 - closing the application
+2018-05-30 10:26:19 INFO  Userlogindex:60 - closing application and quiting the browser
+2018-05-30 10:30:18 INFO  Userlogindex:32 - user has been login into the applciation
+2018-05-30 10:30:22 INFO  Testbase:80 - closing the application
+2018-05-30 10:30:25 INFO  Userlogindex:60 - closing application and quiting the browser
+2018-06-05 10:18:23 INFO  Userlogindex:32 - user has been login into the applciation
+2018-06-05 10:18:29 INFO  Testbase:80 - closing the application
+2018-06-05 10:18:32 INFO  Userlogindex:60 - closing application and quiting the browser
+2018-06-05 10:19:00 INFO  Userlogindex:28 - user has been login into the applciation
+2018-06-05 10:19:02 INFO  Userlogindex:33 - user has been logout into the applciation
+2018-06-05 10:19:02 INFO  Userlogindex:26 - Application has beed started and initilaztion
+2018-06-05 10:19:02 INFO  Testbase:23 - browser has been startied in chrome
+2018-06-05 10:19:05 INFO  Testbase:25 - het browser into the url http://localhost:8901/GroupWorkflow/login
+2018-06-05 10:19:05 INFO  Testbase:73 - het browser into the url http://localhost:8901/GroupWorkflow/login
+2018-06-05 10:19:07 INFO  Userlogindex:32 - user has been login into the applciation
+2018-06-05 10:19:12 INFO  Testbase:80 - closing the application
+2018-06-05 10:19:14 INFO  Userlogindex:60 - closing application and quiting the browser
+2018-06-05 10:19:14 INFO  Testbase:80 - closing the application
+2018-06-05 10:19:15 INFO  Userlogindex:39 - closing application and quiting the browser
+2018-06-05 10:21:26 INFO  Userlogindex:28 - user has been login into the applciation
+2018-06-05 10:21:29 INFO  Userlogindex:33 - user has been logout into the applciation
+2018-06-05 10:21:29 INFO  Userlogindex:26 - Application has beed started and initilaztion
+2018-06-05 10:21:29 INFO  Testbase:23 - browser has been startied in chrome
+2018-06-05 10:21:32 INFO  Testbase:25 - het browser into the url http://localhost:8901/GroupWorkflow/login
+2018-06-05 10:21:32 INFO  Testbase:73 - het browser into the url http://localhost:8901/GroupWorkflow/login
+2018-06-05 10:21:34 INFO  Userlogindex:32 - user has been login into the applciation
+2018-06-05 10:21:38 INFO  Testbase:80 - closing the application
+2018-06-05 10:21:41 INFO  Userlogindex:60 - closing application and quiting the browser
+2018-06-05 10:21:41 INFO  Testbase:80 - closing the application
+2018-06-05 10:21:42 INFO  Userlogindex:39 - closing application and quiting the browser
